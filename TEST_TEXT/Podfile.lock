@@ -1,0 +1,26 @@
+PODS:
+  - Masonry (1.1.0)
+  - OC_CWCarousel (1.1.9)
+  - YYKit (1.0.9):
+    - YYKit/no-arc (= 1.0.9)
+  - YYKit/no-arc (1.0.9)
+
+DEPENDENCIES:
+  - Masonry
+  - OC_CWCarousel
+  - YYKit
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Masonry
+    - OC_CWCarousel
+    - YYKit
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  OC_CWCarousel: 6a10b8ceb0f7a3f69936c579cf90e6abdcff633d
+  YYKit: 7cda43304a8dc3696c449041e2cb3107b4e236e7
+
+PODFILE CHECKSUM: 7c9c69edef50a6e5f8c487670fa701e94788c005
+
+COCOAPODS: 1.11.3
