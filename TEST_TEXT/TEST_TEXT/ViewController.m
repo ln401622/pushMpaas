@@ -51,6 +51,9 @@
     self.view.backgroundColor = [UIColor colorWithRed:0.86 green:0.86 blue:0.86 alpha:1];
     
     NSLog(@"53---%@",[self locationTime]);
+    NSLog(@"53---%@",[self locationTime]);
+    NSLog(@"53---%@",[self locationTime]);
+    NSLog(@"53---%@",[self locationTime]);
     //
     
 //
