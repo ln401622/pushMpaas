@@ -63,6 +63,12 @@
     
 //
 //    UIButton *but = [UIButton new];
+    
+    NSLog(@"53---%@",[self locationTime]);
+    NSLog(@"53---%@",[self locationTime]);
+    NSLog(@"53---%@",[self locationTime]);
+    NSLog(@"53---%@",[self locationTime]);
+    
 //    [self.view addSubview:but];
 //    [but mas_makeConstraints:^(MASConstraintMaker *make) {
 //        make.center.mas_equalTo(0);
