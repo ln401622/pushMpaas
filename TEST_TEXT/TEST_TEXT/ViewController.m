@@ -56,6 +56,11 @@
     NSLog(@"53---%@",[self locationTime]);
     //
     
+    NSLog(@"53---%@",[self locationTime]);
+    NSLog(@"53---%@",[self locationTime]);
+    NSLog(@"53---%@",[self locationTime]);
+    NSLog(@"53---%@",[self locationTime]);
+    
 //
 //    UIButton *but = [UIButton new];
 //    [self.view addSubview:but];
