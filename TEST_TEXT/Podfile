@@ -9,7 +9,7 @@ target 'TEST_TEXT' do
 pod 'YYKit'
 pod 'Masonry'
 pod 'OC_CWCarousel'
-#pod 'Bugly'  ,'2.5.5'      
+pod 'Bugly'  ,'2.5.5'
 #  pod 'TalkfunSDKFramework', '~> 5.3.8'       #欢拓SDK
-#  pod 'MJRefresh', '~> 3.1.15.7'   
+  pod 'MJRefresh', '~> 3.1.15.7'
 end
