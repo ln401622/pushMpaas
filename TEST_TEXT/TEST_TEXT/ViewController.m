@@ -69,6 +69,12 @@
     NSLog(@"53---%@",[self locationTime]);
     NSLog(@"53---%@",[self locationTime]);
     
+    
+    NSLog(@"73---%@",[self locationTime]);
+    NSLog(@"74---%@",[self locationTime]);
+    NSLog(@"75---%@",[self locationTime]);
+    NSLog(@"76---%@",[self locationTime]);
+    
 //    [self.view addSubview:but];
 //    [but mas_makeConstraints:^(MASConstraintMaker *make) {
 //        make.center.mas_equalTo(0);
